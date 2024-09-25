@@ -2,7 +2,7 @@
   "name": "sheerice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{speciliam}.github.io/{sheericewebsite}",
+  "homepage": "https://speciliam.github.io/sheericewebsite",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
