@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/%7Bsheericewebsite%7D/static/css/main.cdf23f07.css",
-    "main.js": "/%7Bsheericewebsite%7D/static/js/main.796d7f80.js",
-    "static/js/453.7b5eee11.chunk.js": "/%7Bsheericewebsite%7D/static/js/453.7b5eee11.chunk.js",
-    "static/media/LiamVan.png": "/%7Bsheericewebsite%7D/static/media/LiamVan.9cab8476294f2ccfa09f.png",
-    "static/media/background.png": "/%7Bsheericewebsite%7D/static/media/background.c2b3ac94ee902f4d763a.png",
-    "index.html": "/%7Bsheericewebsite%7D/index.html",
-    "main.cdf23f07.css.map": "/%7Bsheericewebsite%7D/static/css/main.cdf23f07.css.map",
-    "main.796d7f80.js.map": "/%7Bsheericewebsite%7D/static/js/main.796d7f80.js.map",
-    "453.7b5eee11.chunk.js.map": "/%7Bsheericewebsite%7D/static/js/453.7b5eee11.chunk.js.map"
+    "main.css": "/sheericewebsite/static/css/main.14fd7a5e.css",
+    "main.js": "/sheericewebsite/static/js/main.59d119e0.js",
+    "static/js/453.7b5eee11.chunk.js": "/sheericewebsite/static/js/453.7b5eee11.chunk.js",
+    "static/media/LiamVan.png": "/sheericewebsite/static/media/LiamVan.9cab8476294f2ccfa09f.png",
+    "static/media/background.png": "/sheericewebsite/static/media/background.c2b3ac94ee902f4d763a.png",
+    "index.html": "/sheericewebsite/index.html",
+    "main.14fd7a5e.css.map": "/sheericewebsite/static/css/main.14fd7a5e.css.map",
+    "main.59d119e0.js.map": "/sheericewebsite/static/js/main.59d119e0.js.map",
+    "453.7b5eee11.chunk.js.map": "/sheericewebsite/static/js/453.7b5eee11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf23f07.css",
-    "static/js/main.796d7f80.js"
+    "static/css/main.14fd7a5e.css",
+    "static/js/main.59d119e0.js"
   ]
 }
