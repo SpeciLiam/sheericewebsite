@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sheericewebsite/static/css/main.14fd7a5e.css",
-    "main.js": "/sheericewebsite/static/js/main.59d119e0.js",
+    "main.css": "/sheericewebsite/static/css/main.4177cff4.css",
+    "main.js": "/sheericewebsite/static/js/main.a624e39e.js",
     "static/js/453.7b5eee11.chunk.js": "/sheericewebsite/static/js/453.7b5eee11.chunk.js",
     "static/media/LiamVan.png": "/sheericewebsite/static/media/LiamVan.9cab8476294f2ccfa09f.png",
     "static/media/background.png": "/sheericewebsite/static/media/background.c2b3ac94ee902f4d763a.png",
     "index.html": "/sheericewebsite/index.html",
-    "main.14fd7a5e.css.map": "/sheericewebsite/static/css/main.14fd7a5e.css.map",
-    "main.59d119e0.js.map": "/sheericewebsite/static/js/main.59d119e0.js.map",
+    "main.4177cff4.css.map": "/sheericewebsite/static/css/main.4177cff4.css.map",
+    "main.a624e39e.js.map": "/sheericewebsite/static/js/main.a624e39e.js.map",
     "453.7b5eee11.chunk.js.map": "/sheericewebsite/static/js/453.7b5eee11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14fd7a5e.css",
-    "static/js/main.59d119e0.js"
+    "static/css/main.4177cff4.css",
+    "static/js/main.a624e39e.js"
   ]
 }
