@@ -8,7 +8,7 @@
     align-items: center;
     justify-content: center;
     
-    min-height: 200px; /* Adjust based on your design needs */
+    min-height: unset; /* Or set to a smaller value */
     
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -18,7 +18,7 @@
     cursor: pointer;
     
     width: 100%;
-  }
+}
   
   .tile-card:hover {
     transform: scale(1.02);
@@ -33,4 +33,10 @@
     
     border-radius: 8px;
   }
+  @media (max-width: 480px) {
+    .tile-image {
+      /* Optionally, adjust image styles for smaller screens */
+      border-radius: 6px;
+    }
+    }
   
